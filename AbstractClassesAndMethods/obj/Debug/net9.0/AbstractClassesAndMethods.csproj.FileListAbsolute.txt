@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.exe
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.deps.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.sourcelink.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\refint\AbstractClassesAndMethods.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\AbstractClassesAndMethods\obj\Debug\net9.0\ref\AbstractClassesAndMethods.dll
