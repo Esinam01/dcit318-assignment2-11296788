@@ -1,0 +1,14 @@
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.exe
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.deps.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\refint\InheritanceAndMethodOverriding.dll
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.pdb
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\dcit318-assignment2-11296788\InheritanceAndMethodOverriding\obj\Debug\net9.0\ref\InheritanceAndMethodOverriding.dll
